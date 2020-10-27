@@ -3,6 +3,10 @@
 By Scrapyard Scavengers Studio:
 Brendan Boss, Tyler Outlaw, Richard Marshall, Neeloy Gomes, Josh Stone, and Christopher Devoe
 
+## How to Run
+Open up the Executables/Windows Directory and run ScrapyardScavenger
+
+
 ## Roles:
 Team Leader: Brendan Boss  
 Lead Gameplay Programmer: Brendan Boss   
