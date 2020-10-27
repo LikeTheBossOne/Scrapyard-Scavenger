@@ -5,9 +5,10 @@ Brendan Boss, Tyler Outlaw, Richard Marshall, Neeloy Gomes, Josh Stone, and Chri
 
 ## Roles:
 Team Leader: Brendan Boss  
-Lead Systems Programmer: Brendan Boss  
+Lead Gameplay Programmer: Brendan Boss   
 Lead Map Designer: Josh Stone  
 Lead AI Programmer: Chris Devoe  
+Lead Systems Programmer: Brendan Boss  
 Lead Networking Programmer: Brendan Boss  
 Lead UI Programmer: Neeloy Gomes  
 Lead Character Programmer: Richard Marshall  
