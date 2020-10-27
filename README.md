@@ -4,7 +4,7 @@ By Scrapyard Scavengers Studio:
 Brendan Boss, Tyler Outlaw, Richard Marshall, Neeloy Gomes, Josh Stone, and Christopher Devoe
 
 ## How to Run
-Open up the Executables/Windows Directory and run ScrapyardScavenger
+Email bbossdev@gmail.com to get the final version of the executable (and to make sure server is online).
 
 
 ## Roles:
@@ -43,8 +43,7 @@ Animation: Chris
 
 ## GameModes
 ### Survival GameMode:
-Richard  
-Brendan  
+All Team Members
 
 ### FaceOff Gamemode:
 Brendan  
