@@ -6,6 +6,7 @@ Brendan Boss, Tyler Outlaw, Richard Marshall, Neeloy Gomes, Josh Stone, and Chri
 ## How to Run
 Email bbossdev@gmail.com to get the final version of the executable (and to make sure server is online).
 
+This game has functional LAN Co-Op! To start, open the game and click one of the game modes and have your friend do the same. You will instantly be put in the same lobby, where you can both ready-up and start the game!
 
 ## Roles:
 Team Leader: Brendan Boss  
