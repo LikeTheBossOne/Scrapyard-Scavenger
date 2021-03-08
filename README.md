@@ -21,7 +21,7 @@ Lead Game-Flow Designer: Tyler Outlaw
 ## Sub-Systems:
 ### Player Systems
 Weapons: Tyler  
-Crafting: Neeloy
+Crafting: Neeloy  
 Buyable Debris: Brendan  
 
 ### AI Systems
@@ -35,21 +35,21 @@ InGame HUD: Neeloy and Brendan
 Scene Transition: Brendan  
 
 ### Inventory System
-UI: Neeloy
-Storage: Brendan
-Crafting: Neeloy
-Cross-Scene Persistence: Brendan
+UI: Neeloy  
+Storage/Equipment: Brendan  
+Crafting: Neeloy  
+Cross-Scene Persistence: Brendan  
 
 ### Skill System
-Implementing Skills: Richard
-Economy/XP: Brendan
-Skill Tree: Richard
+Implementing Skills: Richard  
+Economy/XP: Brendan  
+Skill Tree: Richard  
 
 ### Other Systems
 Map: Josh  
 Balancing: Josh  
 Animation: Chris  
-Vehicle Escape: Brendan and Richard
+Vehicle Escape: Brendan and Richard  
 
 ## GameModes
 ### Survival GameMode:
