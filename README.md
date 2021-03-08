@@ -10,6 +10,7 @@ Email bbossdev@gmail.com to get the final version of the executable (and to make
 ## Roles:
 Team Leader: Brendan Boss  
 Lead Gameplay Programmer: Brendan Boss   
+Lead Dev-Ops: Neeloy Gomes  
 Lead Map Designer: Josh Stone  
 Lead AI Programmer: Chris Devoe  
 Lead Systems Programmer: Brendan Boss  
