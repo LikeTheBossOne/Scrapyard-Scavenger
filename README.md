@@ -52,6 +52,7 @@ Map: Josh
 Balancing: Josh  
 Animation: Chris  
 Vehicle Escape: Brendan and Richard  
+Resource Pickup: Brendan  
 
 ## GameModes
 ### Survival GameMode:
